@@ -1,5 +1,6 @@
 # daan.vanramshor.st
- 
+[[Home]]
+
 ## Tech
 - static page generator:
 	- Hugo
