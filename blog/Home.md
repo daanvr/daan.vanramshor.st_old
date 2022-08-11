@@ -27,6 +27,7 @@
 	- Wikidata profile
 	- Linked In profile
 	- Github profile
+		- creating a Github profile README.md
 - Thoughts & stories
 	- creating a universal database of hospitality businesses
 	- Tanzania, Openstreetmap and Gamification.
